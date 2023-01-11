@@ -1,0 +1,52 @@
+.section-three {
+  padding-top: 32px;
+  background: #f2f2f2;
+  min-height: 500px;
+}
+
+.section-three-heading {
+  margin-bottom: 45px;
+  margin-top: 80px;
+}
+.logos {
+  width: 842px;
+}
+
+.logo {
+  display: inline-block;
+  background: #ffffff;
+  transform: skew(-10deg);
+}
+
+.logo-two {
+  margin: 0 8px;
+}
+
+.polygons {
+  width: 504px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+
+.polygon {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 108px;
+  height: 124px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.polygon-white {
+  background: url("../../images/polygon-white.png");
+}
+
+.polygon-blue {
+  background: url("../../images/polygon-blue.png");
+}
+
+.text-group {
+  width: 820px;
+}

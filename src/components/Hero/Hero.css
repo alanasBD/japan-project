@@ -1,0 +1,58 @@
+.hero {
+  background: url("../../images/hero-bg.png");
+  height: 640px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 39px;
+}
+.hero-heading {
+  background: #ffffff;
+  width: 664px;
+  font-family: "Roboto";
+  font-size: 58px;
+  font-weight: 500;
+}
+.hero-sub-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.scout {
+  font-family: "Abel";
+  font-size: 44px;
+  font-weight: 400;
+}
+
+.hero-inner {
+  background: rgba(56, 71, 100, 0.6);
+  width: 406px;
+  min-height: 176px;
+  padding: 12px 48px;
+}
+
+.hero-inner-heading {
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.hero-inner .price {
+  font-family: "Roboto Condensed";
+  font-weight: 400;
+  font-size: 34px;
+  color: #ffffff;
+}
+
+.hero-inner .price::after {
+  content: "万円";
+  font-size: 22px;
+  padding-left: 10px;
+  font-family: "Roboto";
+}
+.hero-inner-text {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+}

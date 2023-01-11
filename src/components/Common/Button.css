@@ -1,4 +1,5 @@
 button {
+  width: 800px;
   color: #ffffff;
   background: linear-gradient(180deg, #4e50a3 0%, #114aa1 100%);
   border-radius: 4px;
@@ -7,6 +8,7 @@ button {
   align-items: center;
   justify-content: center;
   column-gap: 60px;
+  margin: 0 auto;
 }
 
 button span {

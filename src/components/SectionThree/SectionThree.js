@@ -9,8 +9,8 @@ import logoThree from "../../images/logo-three.svg";
 const SectionThree = () => {
   return (
     <div className="container section-three">
-      <div className="row">
-        <Button style={{ margin: "0 auto" }} text="今すぐ無料で登録する" />
+      <div className="">
+        <Button text="今すぐ無料で登録する" />
         <h1 className="text-center section-three-heading">
           あの有名企業のハイクラス求人多数
         </h1>

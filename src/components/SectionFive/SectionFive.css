@@ -1,0 +1,20 @@
+.section-five{
+   
+    min-height: 1500px;
+}
+
+.section-five-inner{
+    width: 1312px;
+    background: #F2EEE2;
+}
+
+.section-five-card{
+    background: #FFFFFF;
+    border-top: 4px solid #9B8805;
+    padding: 10px;
+}
+
+.section-five-card-footer{
+    background:  #F2EEE2;
+    padding:12px 16px;
+}

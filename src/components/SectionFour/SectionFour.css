@@ -1,0 +1,57 @@
+.section-four{
+    padding-top: 72px;
+    min-height:996px;
+    background: url("../../images/section-four-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.section-four-inner{
+    width: 820px;
+}
+
+.person-one{
+    background: #FFFFFF;
+    padding:24px 30px;
+    width: 680px;
+    position: relative;
+}
+
+.person-one::before{
+    content: url("../../images/person-one.svg");
+    position: absolute;
+    position: absolute;
+    left: -188px;
+    top: 55px;
+}
+
+.person-two{
+    background: #FFFFFF;
+    padding:24px 30px;
+    width: 800px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.person-two::after{
+    content: url("../../images/person-two.svg");
+    position: absolute;
+    right: -170px;
+    top: 22px;
+}
+    
+.person-three{
+    background: #FFFFFF;
+    padding:24px 30px;
+    width: 764px;
+    position: relative;
+    margin-top: 30px;
+}
+
+.person-three::before{
+    content: url("../../images/person-three.svg");
+    position: absolute;
+    position: absolute;
+    left: -188px;
+    top: 55px;
+}

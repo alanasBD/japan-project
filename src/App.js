@@ -3,6 +3,8 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import SectionThree from "./components/SectionThree/SectionThree";
 import Button from "./components/Common/Button";
+import SectionFour from "./components/SectionFour/SectionFour";
+import SectionFive from "./components/SectionFive/SectionFive";
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Header />
       <Hero />
       <SectionThree />
+      <SectionFour />
+      <SectionFive />
     </div>
   );
 }

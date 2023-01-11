@@ -3,7 +3,7 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
-    <div className="container hero text-center">
+    <div className="container-fluid hero text-center">
       <div className="row">
         <h1 className="hero-heading mx-auto">年収800万~2,000万円の</h1>
         <h1 className="hero-sub-heading">ハイクラス転職</h1>
